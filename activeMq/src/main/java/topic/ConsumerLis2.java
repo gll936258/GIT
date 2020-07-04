@@ -3,7 +3,7 @@ package topic;
 import org.apache.activemq.ActiveMQConnectionFactory;
 
 import javax.jms.*;
-import java.io.IOException;
+import java.io.22IOException;
 
 public class ConsumerLis2 {
     private static String  MQURL="tcp://localhost:61616";
