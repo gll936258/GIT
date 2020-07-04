@@ -7,7 +7,7 @@ import javax.jms.*;
 public class Consumer2 {
     private static String  MQURL="tcp://localhost:61616";
     public static void main(String[] args) throws JMSException {
-		、、、、、、
+		、、、、、、1222
         //创建工厂
         ConnectionFactory connectionFactory=new ActiveMQConnectionFactory("tcp://localhost:61616");
         //获取连接
