@@ -10,6 +10,9 @@ import javax.jms.*;
 public class Provide {
     private static String  MQURL="tcp://localhost:61616";
     public static void main(String[] args) throws JMSException {
+		/**
+		*	git远端测试
+		*/
         //创建工厂
         ConnectionFactory connectionFactory=new ActiveMQConnectionFactory(MQURL);
         //获取连接
