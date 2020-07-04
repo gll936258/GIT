@@ -1,10 +1,4 @@
-package topic;
-11111111111
-import org.apache.activemq.ActiveMQConnectionFactory;
-
-import javax.jms.*;
-import java.io.IOException;
-
+请求请求群群群群群群群群群群群
 /** Mq 消费者
  * @author administered
  */
