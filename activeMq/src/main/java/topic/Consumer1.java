@@ -11,6 +11,7 @@ import java.io.IOException;
 public class Consumer1 {
     private static String  MQURL="tcp://localhost:61616";
     public static void main(String[] args) throws JMSException {
+		啦啦啦啦
         //创建工厂
         ConnectionFactory connectionFactory=new ActiveMQConnectionFactory(MQURL);
         //获取连接
