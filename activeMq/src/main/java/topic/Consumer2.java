@@ -1,4 +1,4 @@
-2222222222222
+2222222222222212
 public class Consumer2 {
     private static String  MQURL="tcp://localhost:61616";
     public static void main(String[] args) throws JMSException {
