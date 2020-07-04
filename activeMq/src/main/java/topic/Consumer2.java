@@ -1,9 +1,4 @@
-package topic;
-222
-import org.apache.activemq.ActiveMQConnectionFactory;
-
-import javax.jms.*;
-
+2222222222222
 public class Consumer2 {
     private static String  MQURL="tcp://localhost:61616";
     public static void main(String[] args) throws JMSException {
