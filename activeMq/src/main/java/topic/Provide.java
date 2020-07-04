@@ -1,7 +1,7 @@
 package topic;
 123123
 import org.apache.activemq.ActiveMQConnectionFactory;
-
+12
 import javax.jms.*;
 
 /** MQ 消息提供者
