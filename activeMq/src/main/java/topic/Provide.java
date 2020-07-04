@@ -7,6 +7,7 @@ import javax.jms.*;
 /** MQ 消息提供者
  * @author administered
  */
+ 
 public class Provide {
     private static String  MQURL="tcp://localhost:61616";
     public static void main(String[] args) throws JMSException {
